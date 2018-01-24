@@ -1,0 +1,65 @@
+allele		Obsolete; see variation feature key
+attenuator	Sequence related to transcription termination
+C_region	Span of the C immunological feature
+CAAT_signal	`CAAT box' in eukaryotic promoters
+CDS		Sequence coding for amino acids in protein (includes stop codon)
+conflict	Independent sequence determinations differ
+D-loop      	Displacement loop
+D_segment	Span of the D immunological feature
+enhancer	Cis-acting enhancer of promoter function
+exon		Region that codes for part of spliced mRNA
+gene            Region that defines a functional gene, possibly including upstream (promotor, enhancer, etc) and downstream control elements, and for which a name has been assigned.
+GC_signal	`GC box' in eukaryotic promoters
+iDNA		Intervening DNA eliminated by recombination
+intron		Transcribed region excised by mRNA splicing
+J_region	Span of the J immunological feature
+LTR		Long terminal repeat
+mat_peptide	Mature peptide coding region (does not include stop codon)
+misc_binding	Miscellaneous binding site
+misc_difference	Miscellaneous difference feature
+misc_feature	Region of biological significance that cannot be described by any other feature
+misc_recomb	Miscellaneous recombination feature
+misc_RNA	Miscellaneous transcript feature not defined by other RNA keys
+misc_signal	Miscellaneous signal
+misc_structure	Miscellaneous DNA or RNA structure
+modified_base	The indicated base is a modified nucleotide
+mRNA		Messenger RNA
+mutation 	Obsolete: see variation feature key
+N_region	Span of the N immunological feature
+old_sequence	Presented sequence revises a previous version
+polyA_signal	Signal for cleavage & polyadenylation
+polyA_site	Site at which polyadenine is added to mRNA
+precursor_RNA	Any RNA species that is not yet the mature RNA product
+prim_transcript	Primary (unprocessed) transcript
+primer		Primer binding region used with PCR
+primer_bind	Non-covalent primer binding site
+promoter	A region involved in transcription initiation
+protein_bind	Non-covalent protein binding site on DNA or RNA
+RBS		Ribosome binding site
+rep_origin	Replication origin for duplex DNA
+repeat_region	Sequence containing repeated subsequences
+repeat_unit	One repeated unit of a repeat_region
+rRNA		Ribosomal RNA
+S_region	Span of the S immunological feature
+satellite	Satellite repeated sequence
+scRNA		Small cytoplasmic RNA
+sig_peptide	Signal peptide coding region
+snRNA		Small nuclear RNA
+source		Biological source of the sequence data represented by a GenBank record. Mandatory feature, one or more per record.  For organisms that have been incorporated within the NCBI taxonomy database, an associated /db_xref="taxon:NNNN" qualifier will be present (where NNNNN is the numeric identifier assigned to the organism within the NCBI taxonomy database).
+stem_loop	Hair-pin loop structure in DNA or RNA
+STS		Sequence Tagged Site; operationally unique sequence that identifies the combination of primer spans used in a PCR assay
+TATA_signal	`TATA box' in eukaryotic promoters
+terminator	Sequence causing transcription termination
+transit_peptide	Transit peptide coding region
+transposon	Transposable element (TN)
+tRNA 		Transfer RNA
+unsure		Authors are unsure about the sequence in this region
+V_region	Span of the V immunological feature
+variation 	A related population contains stable mutation
+- (hyphen)	Placeholder
+-10_signal	`Pribnow box' in prokaryotic promoters
+-35_signal	`-35 box' in prokaryotic promoters
+3'clip		3'-most region of a precursor transcript removed in processing
+3'UTR		3' untranslated region (trailer)
+5'clip		5'-most region of a precursor transcript removed in processing
+5'UTR		5' untranslated region (leader)

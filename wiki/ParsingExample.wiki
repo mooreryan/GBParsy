@@ -1,0 +1,7 @@
+#summary Example of a parsing result
+
+= Example of a parsing result =
+
+Each box represents a datum as a result of parsing the GBF file, NT_039207. A number in parenthesis is denoted as such in [http://code.google.com/p/gbfp/wiki/DataStructure Data Structure of GBParsy].
+
+[http://gbfp.googlecode.com/svn/wiki/Example.png]

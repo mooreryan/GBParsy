@@ -1,0 +1,35 @@
+#summary How to install
+#labels Phase-Deploy,Featured
+
+= Install GBParsy and GBParsyPy =
+== Common Process ==
+ # Download the compressed library.
+  * [http://gbfp.googlecode.com/files/gbfp-0.6.1.tgz gbfp-0.6.1.tgz]
+ # Uncompress the file into a directory which you want.
+{{{
+$ tar xvfz gbfp-0.6.1.tgz
+}}}
+== Install GBParsy ==
+  # Make and install the library
+{{{
+$ cd gbfp-0.6.1
+$ make
+$ make install (as a root)
+$ cd ..
+}}}
+== Install GBParsyPy ==
+  # Make and install the module
+{{{
+$ cd gbfp-0.6.1/gbfpy
+$ python setup.py build
+$ python setup.py install (as a root)
+$ cd ../..
+}}}
+== Install example program ==
+ # Make and install the example program, seqext
+{{{
+$ cd gbfp-0.6.1/example
+$ make
+$ make install (as a root)
+$ cd ..
+}}}
